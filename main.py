@@ -351,19 +351,31 @@ class MyServer(BaseHTTPRequestHandler):
                 </div>
                 </p>
 
-                <div class="collapse" id="collapseExample">
-                    <div class="card card-body">
-                        Покупая
+                <div class="row col-4">
+                    <div class="row col-11">
+                        <div class="collapse" id="collapseExample">
+                            <div class="card card-body">
+                                Покупая
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="collapse" id="collapseExample1">
-                    <div class="card card-body">
-                        Доставляя
+                <div class="row col-4">
+                    <div class="row col-11">
+                        <div class="collapse" id="collapseExample1">
+                            <div class="card card-body">
+                                Доставляя
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="collapse" id="collapseExample2">
-                    <div class="card card-body">
-                        Гарантировано
+                <div class="row col-4">
+                    <div class="row col-11">
+                        <div class="collapse" id="collapseExample2">
+                            <div class="card card-body">
+                                Гарантировано
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
